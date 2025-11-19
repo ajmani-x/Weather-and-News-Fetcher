@@ -1,0 +1,11 @@
+# macOS files
+.DS_Store
+
+# Logs
+*.log
+
+# Shell script backup files
+*.sh~
+
+# Environment variables (if you create .env in future)
+.env
